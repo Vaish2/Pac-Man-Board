@@ -6,5 +6,5 @@
 6.Different walls - outside dimension
 7.No movements
 8.Starting position at the begining
-9.Starting position and 3 walls aith same number
+9.Starting position and 3 walls with same number
 10.0X0 matrix
