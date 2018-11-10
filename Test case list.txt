@@ -1,0 +1,12 @@
+1.Starting position walls
+2. All walls
+3. No walls 
+4. 1X2 matrix
+5. Different navigation input - ABCDRE
+6. different walls - outside dimension
+7. No movements
+8.starting position at the begining
+9. starting position and 3 walls same number
+10. all 5 values same
+11. No matrix 0X0
+12. 6X10
