@@ -7,4 +7,4 @@
 7.No movements
 8.Starting position at the begining
 9.Starting position and 3 walls aith same number
-10.All 5 values same
+10.0X0 matrix
