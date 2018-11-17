@@ -7,6 +7,7 @@ import os
 
 __author__ = "Vaishnavi Ganesan"
 
+# Swapping the coordinate systems
 
 def convertBLtoTL(x, y, input2):
     # the x, y
